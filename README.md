@@ -17,7 +17,7 @@ You can find scenes here:
 ## Support
 
 Diopter requires a GPU with hardware ray tracing support.
-The the following GPUs have been tested:
+The following GPUs have been tested:
 
 - RTX 3080ti
 - RTX 4050
