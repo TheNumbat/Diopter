@@ -1,0 +1,6 @@
+[submodule "deps/rvk"]
+	path = deps/rvk
+	url = https://github.com/TheNumbat/rvk
+[submodule "deps/rpp"]
+	path = deps/rpp
+	url = https://github.com/TheNumbat/rpp
