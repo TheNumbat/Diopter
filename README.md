@@ -3,7 +3,7 @@
 
 Vulkan 1.3 path-tracer using [rpp](https://github.com/TheNumbat/rpp) and [rvk](https://github.com/TheNumbat/rvk).
 
-You can download a standalone windows executable [here](https://github.com/TheNumbat/Diopter/releases/download/v0.1/Diopter.exe).
+You can download a standalone Windows executable [here](https://github.com/TheNumbat/Diopter/releases/download/v0.1/Diopter.exe).
 
 ## Scenes
 
