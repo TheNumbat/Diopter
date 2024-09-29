@@ -1,7 +1,7 @@
 
 # Diopter
 
-Vulkan 1.3 path-tracer using [rpp](https://github.com/TheNumbat/rpp) and [rvk](https://github.com/TheNumbat/rvk).
+Vulkan 1.3 real-time path tracer using [rpp](https://github.com/TheNumbat/rpp) and [rvk](https://github.com/TheNumbat/rvk).
 
 You can download a standalone windows executable [here]().
 
