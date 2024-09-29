@@ -21,7 +21,6 @@ The following GPUs have been tested:
 
 - RTX 3080ti
 - RTX 4050
-- Radeon 890M
 
 Diopter has only been tested on Windows, but also builds and theoretically works on linux.
 
