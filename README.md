@@ -3,7 +3,7 @@
 
 Vulkan 1.3 real-time path tracer using [rpp](https://github.com/TheNumbat/rpp) and [rvk](https://github.com/TheNumbat/rvk).
 
-You can download a standalone windows executable [here]().
+You can download a standalone Windows executable [here]().
 
 ## Scenes
 
@@ -17,7 +17,7 @@ You can find scenes here:
 ## Support
 
 Diopter requires a GPU with hardware ray tracing support.
-The the following GPUs have been tested:
+The following GPUs have been tested:
 
 - RTX 3080ti
 - RTX 4050
