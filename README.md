@@ -3,7 +3,7 @@
 
 Vulkan 1.3 path-tracer using [rpp](https://github.com/TheNumbat/rpp) and [rvk](https://github.com/TheNumbat/rvk).
 
-You can download a standalone Windows executable [here](https://github.com/TheNumbat/Diopter/releases/download/v0.1/Diopter.exe).
+You can download a standalone windows executable [here]().
 
 ## Scenes
 
@@ -17,13 +17,13 @@ You can find scenes here:
 ## Support
 
 Diopter requires a GPU with hardware ray tracing support.
-The following GPUs have been tested:
+The the following GPUs have been tested:
 
 - RTX 3080ti
 - RTX 4050
 - Radeon 890M
 
-Diopter has only been tested on Windows, but also builds and theoretically works on Linux.
+Diopter has only been tested on Windows, but also builds and theoretically works on linux.
 
 ## Build from Source
 
@@ -107,3 +107,5 @@ To build the shaders, you'll need to download [DXC](https://github.com/microsoft
 [_Zero Day_](https://github.com/mmp/pbrt-v4-scenes)
 ![](renders/zeroday.png)
 
+[_Sponza_](https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Sponza)
+![](renders/sponza.png)
