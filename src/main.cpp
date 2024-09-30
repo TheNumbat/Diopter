@@ -65,7 +65,7 @@ int main(int, char**) {
                     return surface;
                 },
             .host_heap = Math::GB(2),
-            .device_heap_margin = Math::GB(4),
+            .device_heap = Math::MB(8188),
         });
 
         {
